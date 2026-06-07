@@ -112,7 +112,7 @@ FanqieRankTracker/
 ├── scripts/
 │   └── build_latest.py         # Trend comparison + AI analysis build script
 ├── data/
-│   ├── fanqie_female_new_ranks_YYYYMMDD.json  # Daily raw snapshots
+│   ├── fanqie_male_new_ranks_YYYYMMDD.json  # Daily raw snapshots
 │   ├── latest_ranks.json       # Latest aggregated data (dashboard source)
 │   └── trends/
 │       └── YYYY-MM-DD.json     # Trend archives
