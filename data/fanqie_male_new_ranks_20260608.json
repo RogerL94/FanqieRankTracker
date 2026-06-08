@@ -1,20 +1,8 @@
 {
-  "type": "all",
   "date": "2026-06-08",
-  "prev_date": "",
   "categories": [
     {
       "name": "古风世情",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
-      },
       "books": [
         {
           "title": "穿越老朱后宫，我开局冒充长平",
@@ -180,16 +168,6 @@
     },
     {
       "name": "科幻末世",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
-      },
       "books": [
         {
           "title": "求生游戏：请叫我诚信商人",
@@ -355,16 +333,6 @@
     },
     {
       "name": "游戏体育",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
-      },
       "books": [
         {
           "title": "海岛求生：植灵师大人她只想种田",
@@ -530,16 +498,6 @@
     },
     {
       "name": "女频衍生",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
-      },
       "books": [
         {
           "title": "甄嬛传：幸运值点满后撞脸十三爷",
@@ -705,16 +663,6 @@
     },
     {
       "name": "玄幻言情",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
-      },
       "books": [
         {
           "title": "与清冷少年成亲后才知他是大反派",
@@ -880,16 +828,6 @@
     },
     {
       "name": "种田",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
-      },
       "books": [
         {
           "title": "临水小厨娘",
@@ -1055,16 +993,6 @@
     },
     {
       "name": "年代",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
-      },
       "books": [
         {
           "title": "绝嗣长官没儿子？小娇妻一胎三宝",
@@ -1230,16 +1158,6 @@
     },
     {
       "name": "现言脑洞",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
-      },
       "books": [
         {
           "title": "社恐小可怜穿成男主的捞子前女友",
@@ -1405,16 +1323,6 @@
     },
     {
       "name": "宫斗宅斗",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
-      },
       "books": [
         {
           "title": "皇上表弟说他恕难从命",
@@ -1580,16 +1488,6 @@
     },
     {
       "name": "悬疑脑洞",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
-      },
       "books": [
         {
           "title": "盗墓：你们偷我家小麒麟？",
@@ -1755,16 +1653,6 @@
     },
     {
       "name": "古言脑洞",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
-      },
       "books": [
         {
           "title": "满宫不孕，唯我三年抱俩！",
@@ -1930,16 +1818,6 @@
     },
     {
       "name": "快穿",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
-      },
       "books": [
         {
           "title": "厨神快穿，我在各个世界当大厨",
@@ -2105,16 +1983,6 @@
     },
     {
       "name": "青春甜宠",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
-      },
       "books": [
         {
           "title": "大小姐雇我替她和太子爷网恋",
@@ -2280,16 +2148,6 @@
     },
     {
       "name": "星光璀璨",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
-      },
       "books": [
         {
           "title": "被太子爷背出剧组那天，京圈炸了",
@@ -2455,16 +2313,6 @@
     },
     {
       "name": "女频悬疑",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
-      },
       "books": [
         {
           "title": "盗笔我在沙海当歌后",
@@ -2630,16 +2478,6 @@
     },
     {
       "name": "职场婚恋",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
-      },
       "books": [
         {
           "title": "他的生理性喜欢",
@@ -2805,16 +2643,6 @@
     },
     {
       "name": "豪门总裁",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
-      },
       "books": [
         {
           "title": "冒名顶替真千金后，嫁入了豪门",
@@ -2980,16 +2808,6 @@
     },
     {
       "name": "民国言情",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [],
-        "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
-      },
       "books": [
         {
           "title": "闪婚，真千金嫁给了军阀大佬",
